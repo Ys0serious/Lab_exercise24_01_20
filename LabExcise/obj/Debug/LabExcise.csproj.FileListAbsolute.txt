@@ -1,0 +1,7 @@
+C:\Users\94862\source\repos\LabExcise\LabExcise\obj\Debug\LabExcise.csproj.AssemblyReference.cache
+C:\Users\94862\source\repos\LabExcise\LabExcise\obj\Debug\LabExcise.csproj.CoreCompileInputs.cache
+C:\Users\94862\source\repos\LabExcise\LabExcise\bin\Debug\LabExcise.exe.config
+C:\Users\94862\source\repos\LabExcise\LabExcise\bin\Debug\LabExcise.exe
+C:\Users\94862\source\repos\LabExcise\LabExcise\bin\Debug\LabExcise.pdb
+C:\Users\94862\source\repos\LabExcise\LabExcise\obj\Debug\LabExcise.exe
+C:\Users\94862\source\repos\LabExcise\LabExcise\obj\Debug\LabExcise.pdb
